@@ -1,13 +1,11 @@
 ---
 # Display name
-title: 吳健雄
+title: Tawhidul Islam
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tawhidul Islam
+last_name: Nishat
 
 # Status emoji
 status:
@@ -20,115 +18,137 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Department of CSE, Jahangirnagar University
+    url:  https://juniv.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:tawhidulislmanishat@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/tinishat2002
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/ti.nishat/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/Tawhidul-Islam-Nishat
+  - icon: brands/facebook
+    url: https://www.facebook.com/tinishat.2002
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ethical Hacking
+  - Competitive Programming
+  - Data Science
+  - Mobile App Development
+  - Human-Computer Interaction 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Studies at Computer Science and Engineering
+    institution: Jahangirnagar University
+    date_start: 2022-03-09
+    date_end: 2024-11-15
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      I am cuurently studying in Computer Science and Engineering at Jahangirnagar University.
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Structured Programming Language (C)
+      - Object Oriented Programming(C++,Java)
+      - Data Structures and Algorithms
+      - Data and Telecommunication
+      - Electrical and Electronics Circuit Design
+      - Database Management
+      - Web Development
+      - Computer Graphics
+      - Operating System
+    
+  - area: Higher Secondary School Certificate
+    institution: Cox's Bazar Govt. College
+    date_start: 2018-06-01
+    date_end: 2020-10-07
+    summary: |
+      GPA: 5.0/5.0
+
+      Courses included:
+      - Bangla
+      - English
+      - Information and Communication Technology
+      - Physics
+      - Chemistry
+      - Higher Mathematics
+      - Biology
+  - area: Seconday School Certificate
+    institution: Cox's Bazar Hashemia Kamil Master's Madrshah
+    date_start: 2016-01-01
+    date_end: 2018-02-20
+    summary: |
+      GPA: 5.0/5.0
+      
+      Courses included:
+      - Quran and Tazweed
+      - Hadith Sharif
+      - Aqaeed And Fiqh
+      - Arabic and Grammer
+      - Bangla and Grammer
+      - English and Grammer
+      - General Mathematics
+      - Physics
+      - Chemistry
+      - Higher Mathematics
+      - Biology
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Technical Volunteer of NCPC'23, JU
+    company_name: Jahangirnagar University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-02-18
+    date_end: 2024-03-09
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - PC setup
+      - Operating System setup
+      - Ip setup
+      - System Monitoring
+      - Solving Technical Problems
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: HTML and CSS
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C++
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: fa-code
       - name: SQL
         description: ''
         percent: 40
         icon: circle-stack
+      - name: Java
+        description: ''
+        percent: 40
+        icon: code-bracket
+      - name: Linux 
+        description: ''
+        percent: 40
+        icon: Linux-icon
+     
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Travelling
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -140,47 +160,48 @@ skills:
         description: ''
         percent: 80
         icon: camera
+      - name: Cricket
+        description: ''
+        percent: 100
+        icon: sports-cricket
+      - name: Table Tennis
+        description: ''
+        percent: 100
+        icon: sports-ping-pong
 
 languages:
-  - name: English
+  - name: Bangla
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Arabic
+    percent: 15
+  - name: Hindi
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: FreeCodeCamp Certification on Responsive Web Design
+    url: https://www.freecodecamp.org/certification/Tawhidul_Islamnishat/responsive-web-design
+    date: '2024-11-04'
+    awarder: FreeCodeCamp
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+      I have completed the responsive web design course on FreeCodeCamp by submitting 5 Projects and completing some reltive projects. Completing this project i have learnt about basic HTML and CSS.
+  - title: Student of the Year of Chattogram Division, 2019
+    url: https://www.facebook.com/photo/?fbid=748364248919656&set=a.129278570828230
+    date: '2019-07-17'
+    awarder: Creative Talent Hunt
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Creative Talent Hunt is a competition to discover talent from grassroots of the country. There is four kind of competition in three catogories.
+      I was compete for ICT and Math in senior category (HSC Lavel). After completing the competition I was selected for the first place in chattogram Division. Before reaching in division lavel I was compete in college, Sub-District and District lavel.
+  
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I’m Tawhidul Islam, a Computer Science and Engineering student who loves exploring new ideas and solving problems in creative ways. My interests span Ethical Hacking, Competitive Programming, Data Science, Mobile App Development, and Human-Computer Interaction. Outside of academics, I love spending time with my cat, playing cricket and table tennis, capturing unique moments of nature through photography, and exploring the world through hiking and traveling.

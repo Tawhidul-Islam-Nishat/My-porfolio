@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/project/</link>
+      <atom:link href="http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/project/</link>
+    </image>
+    
+    <item>
+      <title>My Portfolio Webpage</title>
+      <link>http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/project/my-porfolio-webpage/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/project/my-porfolio-webpage/</guid>
+      <description>&lt;p&gt;My portfolio is a short demonstration of my project and shares my contact info to others.S&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tic-Tac-Toe Game</title>
+      <link>http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/project/tic-tac-toe-game/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/project/tic-tac-toe-game/</guid>
+      <description>&lt;p&gt;Tic-Tac-Toe is a simple two-player strategy game played on a 3x3 grid. Players take turns marking X or O in empty squares, aiming to align three of their symbols horizontally, vertically, or diagonally to win. If all squares are filled without a winner, the game ends in a draw.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tribute Page</title>
+      <link>http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/project/tribute-page/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/project/tribute-page/</guid>
+      <description>&lt;p&gt;A tribute to Dr. Norman Borlaug.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>E-Ticket Booking</title>
+      <link>http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/project/e-ticket/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/project/e-ticket/</guid>
+      <description>&lt;p&gt;E-Ticket Booking is a online ticket booking platform where an user can buy tickets for buses, trains and Aeroplanes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zakat Management</title>
+      <link>http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/project/zakat-management/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Tawhidul-Islam-Nishat/My-porfolio/project/zakat-management/</guid>
+      <description>&lt;p&gt;Zakat Management is a system that receives donations from donors and gives it to receivers and providers who distribute to respective receivers further. It also calculates zakat for a person whether he has zakat or not.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
